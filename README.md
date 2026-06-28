@@ -1,4 +1,4 @@
-# Daisyworld Espacio-Temporal 🌼🌍
+# Daisyworld Espacio-Temporal (V5) 🌼🌍
 
 Este proyecto implementa una extensión espacial del clásico modelo climático "Daisyworld" (Watson y Lovelock, 1983). Evolucionamos el sistema de Ecuaciones Diferenciales Ordinarias (EDO) a un sistema acoplado de Ecuaciones en Derivadas Parciales (EDP) para estudiar la autorregulación térmica y la formación de patrones espaciales.
 
