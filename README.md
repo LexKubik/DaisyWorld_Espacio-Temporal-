@@ -13,7 +13,7 @@ Este proyecto implementa una extensión espacial del clásico modelo climático 
 * **Condiciones de Borde:** Periódicas (Topología Toroidal)
 * **Estabilización:** Implementación de inercia térmica para el balance de energía de Stefan-Boltzmann.
 
-## 🚀 Cómo ejecutarlo
+## 🌼 Cómo ejecutarlo
 1. Clona este repositorio.
 2. Abre el archivo `margaritas_v5.ipynb` en Jupyter Notebook o Google Colab.
 3. Ejecuta todas las celdas para generar la simulación en tiempo real. Se pueden ajustar los parámetros para experimentar con diferentes condiciones.
