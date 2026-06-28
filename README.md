@@ -5,7 +5,7 @@ Este proyecto implementa una extensión espacial del clásico modelo climático 
 ## 🎥 Animación de expansión de flores
 *Aquí vemos cómo las margaritas blancas y negras compiten por el territorio buscando el equilibrio térmico:*
 
-![Animación de Daisyworld](animacion_parches.gif)
+![Animación de Daisyworld](Simulaciones/n=500, t=20000/daisyworld_globe.mp4)
 
 ## 🛠️ Tecnologías y Métodos Numéricos
 * **Lenguaje:** Python (NumPy, Matplotlib)
